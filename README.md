@@ -1,1 +1,1 @@
-Developer Lua 
+Dev Studying Lua / Python
